@@ -19,3 +19,10 @@ console.log(FavCol);
 // unisci queste 3 risposte
 const PrePass = name + surname + FavCol;
 console.log(PrePass);
+
+// aggiungi 21 alla risposta
+const Plus21 = PrePass + 21;
+console.log(Plus21);
+
+// mostrala a schermo
+placeholder.innerText = Plus21;
