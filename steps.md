@@ -1,3 +1,4 @@
+- **recupero il place holder del dom**
 - **chiedi al utente il nome**
 - **chiedi al utente il cognome** 
 - **chiedi al utente il colore preferito** 
