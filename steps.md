@@ -1,4 +1,4 @@
-- **recupero il place holder del dom**
+- **recupero il place holder dal dom**
 - **chiedi al utente il nome**
 - **chiedi al utente il cognome** 
 - **chiedi al utente il colore preferito** 
