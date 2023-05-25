@@ -16,3 +16,6 @@ console.log(surname);
 const FavCol = prompt(`Qual è il tuo colore preferito?`);
 console.log(FavCol);
 
+// unisci queste 3 risposte
+const PrePass = name + surname + FavCol;
+console.log(PrePass);
